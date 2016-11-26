@@ -1,0 +1,16 @@
+{
+  "name": "archived-searcher",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Tahir H. Butt",
+  "license": "MIT",
+  "dependencies": {
+    "glob": "^7.1.1",
+    "hasha": "^2.2.0",
+    "lokijs": "^1.4.1",
+    "pdf-text-extract": "^1.4.1",
+    "pouchdb": "^6.0.7",
+    "pouchdb-quick-search": "^1.2.0",
+    "yargs": "^6.4.0"
+  }
+}
